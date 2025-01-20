@@ -1,0 +1,13 @@
+google_url: "https://www.google.com/?hl=en"
+login_url: "http://the-internet.herokuapp.com"
+sauce_url: "https://www.saucedemo.com/"
+login_page: "/login"
+valid_credentials:
+  username: "tomsmith"
+  password: "SuperSecretPassword!"
+invalid_credentials:
+  username: "tomsmith"
+  password: "SuperHiddenPassword!"
+sauce_credentials:
+  username: "standard_user"
+  password: "secret_sauce"
