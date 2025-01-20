@@ -20,13 +20,9 @@ This project is a Selenium-based test framework for automating web application t
     pip install -r requirements.txt
 
 3. **Download ChromeDriver:**
-    Make sure to download the version matching your Google Chrome browser from ChromeDriver Downloads. (my chromium version "114.0.5735.90")
-        Direct link to chromedriver: https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+    Make sure to download the version matching your Google Chrome browser from ChromeDriver Downloads. (my chromium version "114.0.5735.90")<br>
+    Direct link to chromedriver: https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip<br>
     Place the chromedriver.exe file in a known location.
-
-4. **Update config.yaml (if needed).**
-    
-## 📂 Project Structure
 
 ## 🚀 How to Run Tests
     Run a specific test:
